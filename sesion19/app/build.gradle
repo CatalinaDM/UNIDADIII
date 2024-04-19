@@ -1,0 +1,31 @@
+plugins{
+    id 'java'
+    
+}
+task numero2{
+    doLast{
+
+    
+    println('Hola, Hola')
+    }
+
+jar {
+    manifest{
+        attributes 'Main-Class': 'mx.utng.sesion19.IntegerToBinary'
+    }
+}
+}
+task hola{
+    doLast{
+        for(int i = 0; i<10;i++){
+
+        println 'Hello World!'
+
+    }
+    def int a= 10
+    def int b = 3
+    println(a*b)
+    println(a/b)
+    }
+
+}

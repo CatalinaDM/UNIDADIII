@@ -1,0 +1,13 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>140</x><y>90</y><w>100</w><h>60</h></coordinates><panel_attributes>/X/
+--
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>10</x><y>240</y><w>140</w><h>80</h></coordinates><panel_attributes>XY
+--
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>230</x><y>240</y><w>140</w><h>80</h></coordinates><panel_attributes>XZ
+--
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>70</x><y>140</y><w>140</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>120;10;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>140</y><w>130</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;110;100</additional_attributes></element><element><id>UMLClass</id><coordinates><x>160</x><y>380</y><w>100</w><h>60</h></coordinates><panel_attributes>XFactory
+--
+--
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>

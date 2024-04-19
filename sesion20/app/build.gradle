@@ -1,0 +1,9 @@
+plugins{
+    id 'application'
+}
+
+application{
+    mainClass = 'mx.utng.sesion20.Ciudadano'
+}
+//gradle run nos permite compilar la aplicacion 
+//y despues de compilarla ejecutarla 
